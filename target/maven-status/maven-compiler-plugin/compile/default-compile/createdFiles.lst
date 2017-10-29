@@ -1,0 +1,13 @@
+br\com\booksw\models\Category.class
+br\com\booksw\controllers\PedidosController.class
+br\com\booksw\daos\PaginatorQueryHelper.class
+br\com\booksw\models\PaginatedList.class
+br\com\booksw\daos\ProductDao.class
+br\com\booksw\controllers\ProductController.class
+br\com\booksw\models\Pedidos.class
+br\com\booksw\daos\PedidosDao.class
+br\com\booksw\daos\CategoryDao.class
+br\com\booksw\controllers\HomeController.class
+br\com\booksw\controllers\CategoryController.class
+br\com\booksw\Boot.class
+br\com\booksw\models\Product.class
